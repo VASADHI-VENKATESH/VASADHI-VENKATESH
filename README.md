@@ -99,12 +99,11 @@
 
 | Certification | Issuer | Date |
 |---|---|---|
-| AWS Cloud Foundation | Amazon | Apr 2023 |
-| Amazon Q Introduction | Amazon | Jun 2023 |
-| Python Essentials 1 & 2 | Cisco | Jul 2023 |
-| Intro to Cybersecurity | Cisco | Aug 2023 |
-| Java Programming Fundamentals | — | Sep 2023 |
-| AI-ML Virtual Internship | AICTE | Dec 2023 |
+| AWS Cloud Foundation | Amazon | Apr 2024 |
+| Amazon Q Introduction | Amazon | Jun 2024 |
+| Python Essentials 1 & 2 | Cisco | Jul 2025 |
+| Intro to Cybersecurity | Cisco | Aug 2025 |
+| AI-ML Virtual Internship | AICTE | Dec 2024 |
 
 ---
 
